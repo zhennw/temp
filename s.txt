@@ -1,0 +1,11 @@
+int main ( )
+{
+int a , b , c ;
+flag = true;
+while ( flag)
+{                  
+c = a + b ;
+if ( c > 100 ) { break ; }
+}
+return 0 ;
+}
